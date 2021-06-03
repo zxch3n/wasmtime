@@ -378,6 +378,7 @@ mod module;
 mod r#ref;
 mod signatures;
 mod store;
+pub mod tracing;
 mod trampoline;
 mod trap;
 mod types;
