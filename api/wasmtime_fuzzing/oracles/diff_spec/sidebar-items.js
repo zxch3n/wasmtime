@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["setup_ocaml_runtime","Set up the OCaml runtime for triggering its signal handler configuration."]],"struct":[["SpecInterpreter","A wrapper for `wasm-spec-interpreter` as a [`DiffEngine`]."]]});

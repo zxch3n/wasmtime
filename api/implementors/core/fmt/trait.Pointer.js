@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["wasmtime"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/fmt/trait.Pointer.html\" title=\"trait core::fmt::Pointer\">Pointer</a> for <a class=\"struct\" href=\"wasmtime/struct.ExternRef.html\" title=\"struct wasmtime::ExternRef\">ExternRef</a>","synthetic":false,"types":["wasmtime::ref::ExternRef"]}];
+implementors["wasmtime_runtime"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/fmt/trait.Pointer.html\" title=\"trait core::fmt::Pointer\">Pointer</a> for <a class=\"struct\" href=\"wasmtime_runtime/struct.VMExternRef.html\" title=\"struct wasmtime_runtime::VMExternRef\">VMExternRef</a>","synthetic":false,"types":["wasmtime_runtime::externref::VMExternRef"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

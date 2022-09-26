@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["config",""],["engine",""]],"struct":[["Float32","Newtype wrapper for `f32` whose `PartialEq` impl considers NaNs equal to each other."],["Float64","Newtype wrapper for `f64` whose `PartialEq` impl considers NaNs equal to each other."]],"trait":[["FuncExt",""],["TypedFuncExt",""]]});
